@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0583817f57fc44feeae7d9329f139380, type: 3}
+  m_Name: Hand
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: Defend
+  artwork: {fileID: -3154501129163049467, guid: f72259f0e762b417f9c92d4d632ba457, type: 3}
+  energyCost: 1
+  effects:
+  - {fileID: 11400000, guid: aef7f8c22b63440c58047a3abfbb3803, type: 2}
